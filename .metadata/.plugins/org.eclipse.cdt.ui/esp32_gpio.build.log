@@ -1,0 +1,23 @@
+                            Memory Type Usage Summary                             
++--------------------------------------------------------------------------------+
+| Memory Type/Section | Used [bytes] | Used [%] | Remain [bytes] | Total [bytes] |
+|---------------------+--------------+----------+----------------+---------------|
+| Flash Code          |       105618 |     1.26 |        8282958 |       8388576 |
+|    .text            |       105618 |     1.26 |                |               |
+| DIRAM               |        60656 |    17.75 |         281104 |        341760 |
+|    .text            |        47139 |    13.79 |                |               |
+|    .data            |        10968 |     3.21 |                |               |
+|    .bss             |         2328 |     0.68 |                |               |
+| Flash Data          |        44400 |     0.13 |       33510000 |      33554400 |
+|    .rodata          |        44144 |     0.13 |                |               |
+|    .appdesc         |          256 |      0.0 |                |               |
+| IRAM                |        16383 |    99.99 |              1 |         16384 |
+|    .text            |        15356 |    93.73 |                |               |
+|    .vectors         |         1027 |     6.27 |                |               |
+| RTC FAST            |          312 |     3.81 |           7880 |          8192 |
+|    .text            |          256 |     3.12 |                |               |
+|    .force_fast      |           32 |     0.39 |                |               |
+|    .rtc_reserved    |           24 |     0.29 |                |               |
++--------------------------------------------------------------------------------+
+C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\components\partition_table\gen_esp32part.py D:\Documents\MyWorkspaces\EspressifDebug\esp32_gpio\proj\build\partition_table\partition-table.bin
+Total time taken to build the project: 9,815 ms

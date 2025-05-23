@@ -1,0 +1,4 @@
+additional_options=--compile-commands-dir\=D\:\\Documents\\MyWorkspaces\\EspressifDebug\\esp32_gpio\\proj\\build
+clangd_path=C\:\\Users\\Justin\\.espressif\\tools\\esp-clang\\esp-18.1.2_20240912\\esp-clang\\bin\\clangd.exe
+eclipse.preferences.version=1
+query_driver=C\:\\Users\\Justin\\.espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin\\xtensa-esp32s3-elf-gcc.exe

@@ -84,3 +84,783 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.espressif.idf.core 1 0 2025-05-23 11:49:57.682
 !MESSAGE [C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;]
+!SESSION 2025-05-23 11:56:01.463 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Documents\MyWorkspaces\EspressifDebug
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 11:56:08.384
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 11:56:08.387
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 11:56:08.387
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 11:56:08.389
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-23 11:56:08.531
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Justin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:08.804
+!MESSAGE Eclipse Install location::file:/C:/Sw/Espressif/tools/espressif-ide/3.4.0/
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:08.806
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Sw/Espressif/tools/espressif-ide/3.4.0/
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:09.675
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:09.676
+!MESSAGE idf_tools.py path: null/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:09.676
+!MESSAGE idf_tools.py path doesn't exist
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:09.677
+!MESSAGE [C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;]
+
+!ENTRY org.eclipse.ui.workbench 2 0 2025-05-23 11:56:18.565
+!MESSAGE Exception occurred while checking large file editor for org.eclipse.ui.part.FileEditorInput(/Documents/MyWorkspaces/EspressifDebug/tool_set_config.json)
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.ui.part.FileEditorInput.getPath(FileEditorInput.java:184)
+	at org.eclipse.ui.internal.LargeFileLimitsPreferenceHandler.getEditorForInput(LargeFileLimitsPreferenceHandler.java:233)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3158)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$11(WorkbenchPage.java:3118)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3116)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3086)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3069)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:345)
+	at com.espressif.idf.ui.tools.ManageEspIdfVersionsHandler$1.run(ManageEspIdfVersionsHandler.java:53)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:178)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:20.729
+!MESSAGE The file has a reparse point. Reparse Tag: 0x8000001b
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:20.773
+!MESSAGE GIT path:C:/Program Files/Git/cmd/git.EXE
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:20.801
+!MESSAGE The file has a reparse point. Reparse Tag: 0x8000001b
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.351
+!MESSAGE Version: v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.352
+!MESSAGE Version: v5.3.3
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.352
+!MESSAGE Version: v5.2.5
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.352
+!MESSAGE Version: v5.1.6
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.352
+!MESSAGE Version: v5.0.9
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.353
+!MESSAGE Version: release/v5.4
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.353
+!MESSAGE Version: release/v5.3
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.353
+!MESSAGE Version: release/v5.2
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.353
+!MESSAGE Version: release/v5.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.353
+!MESSAGE Version: release/v5.0
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:21.353
+!MESSAGE Version: master
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:40.575
+!MESSAGE The file has a reparse point. Reparse Tag: 0x8000001b
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:40.576
+!MESSAGE Executing commads: [C:\Program Files\Git\cmd\git.EXE, describe]
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:40.672
+!MESSAGE The file has a reparse point. Reparse Tag: 0x8000001b
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:51.600
+!MESSAGE The file has a reparse point. Reparse Tag: 0x8000001b
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:51.600
+!MESSAGE Executing commads: [C:\Sw\Espressif\tools\idf-git\2.44.0\bin\git.exe, describe]
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:56:51.720
+!MESSAGE The file has a reparse point. Reparse Tag: 0x8000001b
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:01.732
+!MESSAGE Executing commads: [C:\Sw\Espressif\tools\idf-git\2.44.0\bin\git.exe, describe]
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:03.626
+!MESSAGE 
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:03.628
+!MESSAGE Executing C:\Sw\Espressif\tools\idf-python\3.11.2\python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools\idf_tools.py install all
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:03.630
+!MESSAGE {USERDOMAIN_ROAMINGPROFILE=JMR-LAPTOP, PROCESSOR_LEVEL=6, RegionCode=NA, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, PROCESSOR_ARCHITECTURE=AMD64, PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules, SystemDrive=C:, VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\, USERNAME=Justin, ProgramFiles(x86)=C:\Program Files (x86), EFC_9264_2283032206=1, VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC, DriverData=C:\Windows\System32\Drivers\DriverData, OneDriveConsumer=C:\Users\Justin\OneDrive, NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\, platformcode=M8, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\Justin, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\windows, CDS_LISTENER_MODE=LOCAL, =::=::\, ZES_ENABLE_SYSMAN=1, LOCALAPPDATA=C:\Users\Justin\AppData\Local, NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\, USERDOMAIN=JMR-LAPTOP, LOGONSERVER=\\JMR-LAPTOP, EFC_9264_1592913036=1, IDF_TOOLS_PATH=C:\Users\Justin\.espressif, OneDrive=C:\Users\Justin\OneDrive, APPDATA=C:\Users\Justin\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;, OS=Windows_NT, COMPUTERNAME=JMR-LAPTOP, CARBON_MEM_DISABLE=1, OnlineServices=Online Services, PROCESSOR_REVISION=aa04, CommonProgramW6432=C:\Program Files\Common Files, ComSpec=C:\windows\system32\cmd.exe, SystemRoot=C:\windows, TEMP=C:\Users\Justin\AppData\Local\Temp, HOMEDRIVE=C:, USERPROFILE=C:\Users\Justin, TMP=C:\Users\Justin\AppData\Local\Temp, CDS_HOME=C:\cds_spb_home, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=22}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:04.109
+!MESSAGE Executing C:\Sw\Espressif\tools\idf-python\3.11.2\python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools\idf_tools.py install-python-env
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:04.109
+!MESSAGE {USERDOMAIN_ROAMINGPROFILE=JMR-LAPTOP, PROCESSOR_LEVEL=6, RegionCode=NA, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, PROCESSOR_ARCHITECTURE=AMD64, PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules, SystemDrive=C:, VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\, USERNAME=Justin, ProgramFiles(x86)=C:\Program Files (x86), EFC_9264_2283032206=1, VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC, DriverData=C:\Windows\System32\Drivers\DriverData, OneDriveConsumer=C:\Users\Justin\OneDrive, NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\, platformcode=M8, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\Justin, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\windows, CDS_LISTENER_MODE=LOCAL, =::=::\, ZES_ENABLE_SYSMAN=1, LOCALAPPDATA=C:\Users\Justin\AppData\Local, NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\, USERDOMAIN=JMR-LAPTOP, LOGONSERVER=\\JMR-LAPTOP, EFC_9264_1592913036=1, IDF_TOOLS_PATH=C:\Users\Justin\.espressif, OneDrive=C:\Users\Justin\OneDrive, APPDATA=C:\Users\Justin\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;, OS=Windows_NT, COMPUTERNAME=JMR-LAPTOP, CARBON_MEM_DISABLE=1, OnlineServices=Online Services, PROCESSOR_REVISION=aa04, CommonProgramW6432=C:\Program Files\Common Files, ComSpec=C:\windows\system32\cmd.exe, SystemRoot=C:\windows, TEMP=C:\Users\Justin\AppData\Local\Temp, HOMEDRIVE=C:, USERPROFILE=C:\Users\Justin, TMP=C:\Users\Justin\AppData\Local\Temp, CDS_HOME=C:\cds_spb_home, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=22}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.331
+!MESSAGE Executing C:\Sw\Espressif\tools\idf-python\3.11.2\python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools\idf_tools.py export --format=key-value
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.678
+!MESSAGE OPENOCD_SCRIPTS=C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\
+IDF_PYTHON_ENV_PATH=C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env
+ESP_IDF_VERSION=5.4
+PATH=C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Justin\AppData\Local\Temp\tmpnd4h43x_idf_24672
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.678
+!MESSAGE Key: OPENOCD_SCRIPTS Value: C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.679
+!MESSAGE Key: IDF_CCACHE_ENABLE Value: 1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.679
+!MESSAGE Key: ESP_ROM_ELF_DIR Value: C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.679
+!MESSAGE Key: IDF_PYTHON_ENV_PATH Value: C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.680
+!MESSAGE Key: ESP_IDF_VERSION Value: 5.4
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.680
+!MESSAGE Key: PATH Value: C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.680
+!MESSAGE Key: IDF_DEACTIVATE_FILE_PATH Value: C:\Users\Justin\AppData\Local\Temp\tmpnd4h43x_idf_24672
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.681
+!MESSAGE Executing C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env/Scripts/python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools\idf.py --version
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:10.681
+!MESSAGE {USERDOMAIN_ROAMINGPROFILE=JMR-LAPTOP, PROCESSOR_LEVEL=6, RegionCode=NA, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, PROCESSOR_ARCHITECTURE=AMD64, PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules, SystemDrive=C:, VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\, USERNAME=Justin, ProgramFiles(x86)=C:\Program Files (x86), EFC_9264_2283032206=1, VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC, DriverData=C:\Windows\System32\Drivers\DriverData, OneDriveConsumer=C:\Users\Justin\OneDrive, NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\, platformcode=M8, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\Justin, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\windows, CDS_LISTENER_MODE=LOCAL, =::=::\, ZES_ENABLE_SYSMAN=1, LOCALAPPDATA=C:\Users\Justin\AppData\Local, NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\, USERDOMAIN=JMR-LAPTOP, LOGONSERVER=\\JMR-LAPTOP, EFC_9264_1592913036=1, IDF_TOOLS_PATH=C:\Users\Justin\.espressif, OneDrive=C:\Users\Justin\OneDrive, APPDATA=C:\Users\Justin\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;, OS=Windows_NT, COMPUTERNAME=JMR-LAPTOP, CARBON_MEM_DISABLE=1, OnlineServices=Online Services, PROCESSOR_REVISION=aa04, CommonProgramW6432=C:\Program Files\Common Files, ComSpec=C:\windows\system32\cmd.exe, SystemRoot=C:\windows, TEMP=C:\Users\Justin\AppData\Local\Temp, HOMEDRIVE=C:, USERPROFILE=C:\Users\Justin, TMP=C:\Users\Justin\AppData\Local\Temp, CDS_HOME=C:\cds_spb_home, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=22}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:13.182
+!MESSAGE Executing C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env/Scripts/python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools\idf.py --list-targets
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:13.183
+!MESSAGE {USERDOMAIN_ROAMINGPROFILE=JMR-LAPTOP, PROCESSOR_LEVEL=6, RegionCode=NA, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, PROCESSOR_ARCHITECTURE=AMD64, PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules, SystemDrive=C:, VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\, USERNAME=Justin, ProgramFiles(x86)=C:\Program Files (x86), EFC_9264_2283032206=1, VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC, DriverData=C:\Windows\System32\Drivers\DriverData, OneDriveConsumer=C:\Users\Justin\OneDrive, NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\, platformcode=M8, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\Justin, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\windows, CDS_LISTENER_MODE=LOCAL, =::=::\, ZES_ENABLE_SYSMAN=1, LOCALAPPDATA=C:\Users\Justin\AppData\Local, NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\, USERDOMAIN=JMR-LAPTOP, LOGONSERVER=\\JMR-LAPTOP, EFC_9264_1592913036=1, IDF_TOOLS_PATH=C:\Users\Justin\.espressif, OneDrive=C:\Users\Justin\OneDrive, APPDATA=C:\Users\Justin\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;, OS=Windows_NT, COMPUTERNAME=JMR-LAPTOP, CARBON_MEM_DISABLE=1, OnlineServices=Online Services, PROCESSOR_REVISION=aa04, CommonProgramW6432=C:\Program Files\Common Files, ComSpec=C:\windows\system32\cmd.exe, SystemRoot=C:\windows, TEMP=C:\Users\Justin\AppData\Local\Temp, HOMEDRIVE=C:, USERPROFILE=C:\Users\Justin, TMP=C:\Users\Justin\AppData\Local\Temp, CDS_HOME=C:\cds_spb_home, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=22}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.216
+!MESSAGE Executing C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env/Scripts/python.exe -m pip list
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.216
+!MESSAGE {USERDOMAIN_ROAMINGPROFILE=JMR-LAPTOP, PROCESSOR_LEVEL=6, RegionCode=NA, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, PROCESSOR_ARCHITECTURE=AMD64, PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules, SystemDrive=C:, VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\, USERNAME=Justin, ProgramFiles(x86)=C:\Program Files (x86), EFC_9264_2283032206=1, VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC, DriverData=C:\Windows\System32\Drivers\DriverData, OneDriveConsumer=C:\Users\Justin\OneDrive, NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\, platformcode=M8, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\Justin, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\windows, CDS_LISTENER_MODE=LOCAL, =::=::\, ZES_ENABLE_SYSMAN=1, LOCALAPPDATA=C:\Users\Justin\AppData\Local, NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\, USERDOMAIN=JMR-LAPTOP, LOGONSERVER=\\JMR-LAPTOP, EFC_9264_1592913036=1, IDF_TOOLS_PATH=C:\Users\Justin\.espressif, OneDrive=C:\Users\Justin\OneDrive, APPDATA=C:\Users\Justin\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;, OS=Windows_NT, COMPUTERNAME=JMR-LAPTOP, CARBON_MEM_DISABLE=1, OnlineServices=Online Services, PROCESSOR_REVISION=aa04, CommonProgramW6432=C:\Program Files\Common Files, ComSpec=C:\windows\system32\cmd.exe, SystemRoot=C:\windows, TEMP=C:\Users\Justin\AppData\Local\Temp, HOMEDRIVE=C:, USERPROFILE=C:\Users\Justin, TMP=C:\Users\Justin\AppData\Local\Temp, CDS_HOME=C:\cds_spb_home, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=22}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.553
+!MESSAGE Executing C:\Sw\Espressif\tools\idf-python\3.11.2\python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools\idf_tools.py export --format=key-value
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.553
+!MESSAGE Using: C:\Sw\Espressif\frameworks\esp-idf-v5.4.1 to find toolchains
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.554
+!MESSAGE Env used: {PATH=C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%, IDF_COMPONENT_MANAGER=1, OPENOCD_SCRIPTS=C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts, IDF_DEACTIVATE_FILE_PATH=C:\Users\Justin\AppData\Local\Temp\tmpnd4h43x_idf_24672, IDF_MAINTAINER=1, IDF_CCACHE_ENABLE=1, IDF_PATH=C:\Sw\Espressif\frameworks\esp-idf-v5.4.1, IDF_PYTHON_ENV_PATH=C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env, ESP_IDF_VERSION=5.4.1, ESP_ROM_ELF_DIR=C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.897
+!MESSAGE Key: OPENOCD_SCRIPTS Value: C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.898
+!MESSAGE Key: IDF_CCACHE_ENABLE Value: 1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.898
+!MESSAGE Key: ESP_ROM_ELF_DIR Value: C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.898
+!MESSAGE Key: IDF_PYTHON_ENV_PATH Value: C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.899
+!MESSAGE Key: ESP_IDF_VERSION Value: 5.4
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.899
+!MESSAGE Key: PATH Value: C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.899
+!MESSAGE Key: IDF_DEACTIVATE_FILE_PATH Value: C:\Users\Justin\AppData\Local\Temp\tmp322sbuqyidf_24672
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.900
+!MESSAGE Executing C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env/Scripts/python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools\idf.py --version
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:14.900
+!MESSAGE {USERDOMAIN_ROAMINGPROFILE=JMR-LAPTOP, PROCESSOR_LEVEL=6, RegionCode=NA, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, PROCESSOR_ARCHITECTURE=AMD64, PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules, SystemDrive=C:, VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\, USERNAME=Justin, ProgramFiles(x86)=C:\Program Files (x86), EFC_9264_2283032206=1, VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC, DriverData=C:\Windows\System32\Drivers\DriverData, OneDriveConsumer=C:\Users\Justin\OneDrive, NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\, platformcode=M8, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\Justin, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\windows, CDS_LISTENER_MODE=LOCAL, =::=::\, ZES_ENABLE_SYSMAN=1, LOCALAPPDATA=C:\Users\Justin\AppData\Local, NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\, USERDOMAIN=JMR-LAPTOP, LOGONSERVER=\\JMR-LAPTOP, EFC_9264_1592913036=1, IDF_TOOLS_PATH=C:\Users\Justin\.espressif, OneDrive=C:\Users\Justin\OneDrive, APPDATA=C:\Users\Justin\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;, OS=Windows_NT, COMPUTERNAME=JMR-LAPTOP, CARBON_MEM_DISABLE=1, OnlineServices=Online Services, PROCESSOR_REVISION=aa04, CommonProgramW6432=C:\Program Files\Common Files, ComSpec=C:\windows\system32\cmd.exe, SystemRoot=C:\windows, TEMP=C:\Users\Justin\AppData\Local\Temp, HOMEDRIVE=C:, USERPROFILE=C:\Users\Justin, TMP=C:\Users\Justin\AppData\Local\Temp, CDS_HOME=C:\cds_spb_home, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=22}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.481
+!MESSAGE Updating environment variables with key:PATH value:C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.484
+!MESSAGE Updating environment variables with key:IDF_COMPONENT_MANAGER value:1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.486
+!MESSAGE Updating environment variables with key:OPENOCD_SCRIPTS value:C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.487
+!MESSAGE Updating environment variables with key:IDF_DEACTIVATE_FILE_PATH value:C:\Users\Justin\AppData\Local\Temp\tmp322sbuqyidf_24672
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.488
+!MESSAGE Updating environment variables with key:IDF_MAINTAINER value:1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.490
+!MESSAGE Updating environment variables with key:IDF_CCACHE_ENABLE value:1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.491
+!MESSAGE Updating environment variables with key:IDF_PATH value:C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.492
+!MESSAGE Updating environment variables with key:IDF_PYTHON_ENV_PATH value:C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.493
+!MESSAGE Updating environment variables with key:ESP_IDF_VERSION value:5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.495
+!MESSAGE Updating environment variables with key:ESP_ROM_ELF_DIR value:C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.496
+!MESSAGE Updating environment variables with key:IDF_PATH value:C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.496
+!MESSAGE Updating environment variables with key:PATH value:C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.497
+!MESSAGE Updating environment variables with key:PYTHON_EXE_PATH value:C:\Sw\Espressif\tools\idf-python\3.11.2\python.exe
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.499
+!MESSAGE Updating environment variables with key:IDF_COMPONENT_MANAGER value:1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.499
+!MESSAGE Updating environment variables with key:IDF_MAINTAINER value:1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.500
+!MESSAGE Executing C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env/Scripts/python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools\idf.py --list-targets
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:16.500
+!MESSAGE {USERDOMAIN_ROAMINGPROFILE=JMR-LAPTOP, PROCESSOR_LEVEL=6, RegionCode=NA, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, PROCESSOR_ARCHITECTURE=AMD64, PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules, SystemDrive=C:, VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\, USERNAME=Justin, ProgramFiles(x86)=C:\Program Files (x86), EFC_9264_2283032206=1, VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC, DriverData=C:\Windows\System32\Drivers\DriverData, OneDriveConsumer=C:\Users\Justin\OneDrive, NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\, platformcode=M8, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\Justin, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\windows, CDS_LISTENER_MODE=LOCAL, =::=::\, ZES_ENABLE_SYSMAN=1, LOCALAPPDATA=C:\Users\Justin\AppData\Local, NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\, USERDOMAIN=JMR-LAPTOP, LOGONSERVER=\\JMR-LAPTOP, EFC_9264_1592913036=1, IDF_TOOLS_PATH=C:\Users\Justin\.espressif, OneDrive=C:\Users\Justin\OneDrive, APPDATA=C:\Users\Justin\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;, OS=Windows_NT, COMPUTERNAME=JMR-LAPTOP, CARBON_MEM_DISABLE=1, OnlineServices=Online Services, PROCESSOR_REVISION=aa04, CommonProgramW6432=C:\Program Files\Common Files, ComSpec=C:\windows\system32\cmd.exe, SystemRoot=C:\windows, TEMP=C:\Users\Justin\AppData\Local\Temp, HOMEDRIVE=C:, USERPROFILE=C:\Users\Justin, TMP=C:\Users\Justin\AppData\Local\Temp, CDS_HOME=C:\cds_spb_home, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=22}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:17.537
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:17.537
+!MESSAGE idf_tools.py path: C:\Sw\Espressif\frameworks\esp-idf-v5.4.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:17.538
+!MESSAGE [C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe, C:\Sw\Espressif\frameworks\esp-idf-v5.4.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:17.882
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\
+IDF_PYTHON_ENV_PATH=C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env
+ESP_IDF_VERSION=5.4
+PATH=C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Justin\AppData\Local\Temp\tmpk3yf73zzidf_30680
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:17.882
+!MESSAGE PATH: C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:17.883
+!MESSAGE [C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:17.966
+!MESSAGE Executing C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env/Scripts/python.exe -m pip list
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:17.967
+!MESSAGE {USERDOMAIN_ROAMINGPROFILE=JMR-LAPTOP, PROCESSOR_LEVEL=6, RegionCode=NA, SESSIONNAME=Console, ALLUSERSPROFILE=C:\ProgramData, PROCESSOR_ARCHITECTURE=AMD64, PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules, SystemDrive=C:, VXIPNPPATH=C:\Program Files (x86)\IVI Foundation\VISA\, USERNAME=Justin, ProgramFiles(x86)=C:\Program Files (x86), EFC_9264_2283032206=1, VXIPNPPATH64=C:\Program Files\IVI Foundation\VISA\, PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC, DriverData=C:\Windows\System32\Drivers\DriverData, OneDriveConsumer=C:\Users\Justin\OneDrive, NIEXTCCOMPILERSUPP=C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\, platformcode=M8, ProgramData=C:\ProgramData, ProgramW6432=C:\Program Files, HOMEPATH=\Users\Justin, PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 170 Stepping 4, GenuineIntel, ProgramFiles=C:\Program Files, PUBLIC=C:\Users\Public, windir=C:\windows, CDS_LISTENER_MODE=LOCAL, =::=::\, ZES_ENABLE_SYSMAN=1, LOCALAPPDATA=C:\Users\Justin\AppData\Local, NIDAQmxSwitchDir=C:\Program Files (x86)\National Instruments\NI-DAQ\Switch\, USERDOMAIN=JMR-LAPTOP, LOGONSERVER=\\JMR-LAPTOP, EFC_9264_1592913036=1, IDF_TOOLS_PATH=C:\Users\Justin\.espressif, OneDrive=C:\Users\Justin\OneDrive, APPDATA=C:\Users\Justin\AppData\Roaming, VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\, CommonProgramFiles=C:\Program Files\Common Files, Path=C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin/server;C:/Sw/Espressif/tools/espressif-ide/3.4.0//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529/jre/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\HP\HP One Agent;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\dotnet\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Users\Justin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-24.0.1\bin;C:\Users\Justin\AppData\Local\JetBrains\Toolbox\scripts;C:\Sw\msys64\ucrt64\bin;C:\Users\Justin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Sw\Espressif\tools\espressif-ide\3.4.0;, OS=Windows_NT, COMPUTERNAME=JMR-LAPTOP, CARBON_MEM_DISABLE=1, OnlineServices=Online Services, PROCESSOR_REVISION=aa04, CommonProgramW6432=C:\Program Files\Common Files, ComSpec=C:\windows\system32\cmd.exe, SystemRoot=C:\windows, TEMP=C:\Users\Justin\AppData\Local\Temp, HOMEDRIVE=C:, USERPROFILE=C:\Users\Justin, TMP=C:\Users\Justin\AppData\Local\Temp, CDS_HOME=C:\cds_spb_home, CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files, NUMBER_OF_PROCESSORS=22}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:18.341
+!MESSAGE Using: C:\Sw\Espressif\frameworks\esp-idf-v5.4.1 to find toolchains
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:18.341
+!MESSAGE Env used: {PATH=C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%, IDF_COMPONENT_MANAGER=1, OPENOCD_SCRIPTS=C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts, IDF_DEACTIVATE_FILE_PATH=C:\Users\Justin\AppData\Local\Temp\tmp322sbuqyidf_24672, IDF_MAINTAINER=1, IDF_CCACHE_ENABLE=1, IDF_PATH=C:\Sw\Espressif\frameworks\esp-idf-v5.4.1, IDF_PYTHON_ENV_PATH=C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env, ESP_IDF_VERSION=5.4.1, ESP_ROM_ELF_DIR=C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\}
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:22.049
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:22.089
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:23.843
+!MESSAGE ESP-IDF v5.4.1-1-ga48618fd0c
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:43.815
+!MESSAGE Source Template path:C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\examples\get-started\hello_world
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:43.893
+!MESSAGE Project Name:: hello_world
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:43.893
+!MESSAGE Project:: P/hello_world
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:44.276
+!MESSAGE D:\Documents\MyWorkspaces\EspressifDebug\hello_world\build\project_description.json could not find
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:44.282
+!MESSAGE Project Name:: hello_world
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:44.283
+!MESSAGE Project:: P/hello_world
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:44.284
+!MESSAGE sdkconfig.json file could not find D:\Documents\MyWorkspaces\EspressifDebug\hello_world\build/config/sdkconfig.json
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:57:44.420
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20241016 (2024-10-16-14:17)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:26.926
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:26.946
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:34.592
+!MESSAGE Source Template path:C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\examples\get-started\blink
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:34.640
+!MESSAGE Project Name:: blink
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:34.640
+!MESSAGE Project:: P/blink
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:34.790
+!MESSAGE D:\Documents\MyWorkspaces\EspressifDebug\blink\build\project_description.json could not find
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:34.794
+!MESSAGE Project Name:: blink
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:34.794
+!MESSAGE Project:: P/blink
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:34.939
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20241016 (2024-10-16-14:17)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:53.255
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:58:53.277
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:59:19.752
+!MESSAGE Source Template path:C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\examples\system\freertos\real_time_stats
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:59:19.921
+!MESSAGE D:\Documents\MyWorkspaces\EspressifDebug\real_time_stats\build\project_description.json could not find
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:59:20.027
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20241016 (2024-10-16-14:17)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 11:59:20.033
+!MESSAGE Resource is out of sync with the file system: '/real_time_stats/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/real_time_stats/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:59:24.938
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 11:59:24.969
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:00:15.467
+!MESSAGE Source Template path:C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\examples\bluetooth\ble_get_started\bluedroid\Bluedroid_Beacon
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:00:15.620
+!MESSAGE D:\Documents\MyWorkspaces\EspressifDebug\Bluedroid_Beacon\build\project_description.json could not find
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:00:15.729
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20241016 (2024-10-16-14:17)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:00:15.745
+!MESSAGE Resource is out of sync with the file system: '/Bluedroid_Beacon/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/Bluedroid_Beacon/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:00:24.297
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:00:24.323
+!MESSAGE IDF path C:\Sw\Espressif\frameworks\esp-idf-v5.4.1
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:00:39.054
+!MESSAGE Source Template path:C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\examples\wifi\scan
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:00:39.205
+!MESSAGE D:\Documents\MyWorkspaces\EspressifDebug\scan\build\project_description.json could not find
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:00:39.305
+!MESSAGE Open On-Chip Debugger v0.12.0-esp32-20241016 (2024-10-16-14:17)
+Licensed under GNU GPL v2
+For bug reports, read
+	http://openocd.org/doc/doxygen/bugs.html
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:00:39.401
+!MESSAGE Resource is out of sync with the file system: '/scan/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/scan/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:06:41.593
+!MESSAGE Resource is out of sync with the file system: '/blink/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/blink/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:14:49.061
+!MESSAGE Resource is out of sync with the file system: '/Bluedroid_Beacon/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/Bluedroid_Beacon/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:14:49.088
+!MESSAGE Resource is out of sync with the file system: '/scan/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/scan/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:14:49.088
+!MESSAGE Resource is out of sync with the file system: '/Bluedroid_Beacon/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/Bluedroid_Beacon/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:14:49.088
+!MESSAGE Resource is out of sync with the file system: '/real_time_stats/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/real_time_stats/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:14:49.089
+!MESSAGE Resource is out of sync with the file system: '/hello_world/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/hello_world/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:16:13.864
+!MESSAGE Resource is out of sync with the file system: '/esp32_gpio/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/esp32_gpio/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:17:09.022
+!MESSAGE Resource is out of sync with the file system: '/hello_world/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/hello_world/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:18:15.170
+!MESSAGE Resource is out of sync with the file system: '/real_time_stats/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/real_time_stats/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 274 2025-05-23 12:18:30.465
+!MESSAGE Resource is out of sync with the file system: '/scan/.clangd'.
+!STACK 0
+java.lang.Exception: Resource is out of sync with the file system: '/scan/.clangd'.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.prepareWrite(FileSystemResourceManager.java:1279)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:1339)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:398)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:523)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.writeClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:134)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase.updateClangdConfigFile(ClangdCompilationDatabaseSetterBase.java:100)
+	at org.eclipse.cdt.lsp.clangd.internal.config.ClangdCompilationDatabaseSetterBase$1.runInWorkspace(ClangdCompilationDatabaseSetterBase.java:72)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2025-05-23 12:19:44.485 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 12:19:49.648
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 12:19:49.660
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 12:19:49.660
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 12:19:49.660
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-23 12:19:49.730
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Justin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:19:49.962
+!MESSAGE Eclipse Install location::file:/C:/Sw/Espressif/tools/espressif-ide/3.4.0/
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:19:49.963
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Sw/Espressif/tools/espressif-ide/3.4.0/
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:19:50.621
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:19:50.621
+!MESSAGE idf_tools.py path: C:\Sw\Espressif\frameworks\esp-idf-v5.4.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:19:50.622
+!MESSAGE [C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe, C:\Sw\Espressif\frameworks\esp-idf-v5.4.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:19:56.532
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\
+IDF_PYTHON_ENV_PATH=C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env
+ESP_IDF_VERSION=5.4
+PATH=C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Justin\AppData\Local\Temp\tmpy_z1z2boidf_18788
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:19:56.532
+!MESSAGE PATH: C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:19:56.533
+!MESSAGE [C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%]
+!SESSION 2025-05-23 12:20:43.182 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 12:20:47.941
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 12:20:47.951
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.debug.gdbjtag.openocd.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 12:20:47.951
+!MESSAGE Enablement expression is missing for config provider for com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2025-05-23 12:20:47.951
+!MESSAGE Enablement expression is missing for descriptor type com.espressif.idf.launch.serial.core.idf.descriptorType
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-23 12:20:48.014
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Justin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:48.314
+!MESSAGE Eclipse Install location::file:/C:/Sw/Espressif/tools/espressif-ide/3.4.0/
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:48.316
+!MESSAGE esp-idf.json file doesnt exist at this location: /C:/Sw/Espressif/tools/espressif-ide/3.4.0/
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:48.770
+!MESSAGE Initializing toolchain...
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:48.772
+!MESSAGE idf_tools.py path: C:\Sw\Espressif\frameworks\esp-idf-v5.4.1/tools/idf_tools.py
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:48.773
+!MESSAGE [C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe, C:\Sw\Espressif\frameworks\esp-idf-v5.4.1/tools/idf_tools.py, export, --format=key-value]
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:49.197
+!MESSAGE idf_tools.py export output: OPENOCD_SCRIPTS=C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\share\openocd\scripts
+IDF_CCACHE_ENABLE=1
+ESP_ROM_ELF_DIR=C:\Users\Justin\.espressif\tools\esp-rom-elfs\20241011\
+IDF_PYTHON_ENV_PATH=C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env
+ESP_IDF_VERSION=5.4
+PATH=C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+IDF_DEACTIVATE_FILE_PATH=C:\Users\Justin\AppData\Local\Temp\tmpgw5ppc8aidf_2904
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:49.197
+!MESSAGE PATH: C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:49.198
+!MESSAGE [C:\Users\Justin\.espressif\tools\xtensa-esp-elf-gdb\14.2_20240403\xtensa-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf-gdb\14.2_20240403\riscv32-esp-elf-gdb\bin;C:\Users\Justin\.espressif\tools\xtensa-esp-elf\esp-14.2.0_20241119\xtensa-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp-clang\esp-18.1.2_20240912\esp-clang\bin;C:\Users\Justin\.espressif\tools\riscv32-esp-elf\esp-14.2.0_20241119\riscv32-esp-elf\bin;C:\Users\Justin\.espressif\tools\esp32ulp-elf\2.38_20240113\esp32ulp-elf\bin;C:\Users\Justin\.espressif\tools\cmake\3.30.2\bin;C:\Users\Justin\.espressif\tools\openocd-esp32\v0.12.0-esp32-20241016\openocd-esp32\bin;C:\Users\Justin\.espressif\tools\ninja\1.12.1\;C:\Users\Justin\.espressif\tools\idf-exe\1.0.3\;C:\Users\Justin\.espressif\tools\ccache\4.10.2\ccache-4.10.2-windows-x86_64;C:\Users\Justin\.espressif\tools\dfu-util\0.11\dfu-util-0.11-win64;C:\Users\Justin\.espressif\tools\qemu-xtensa\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\tools\qemu-riscv32\esp_develop_9.0.0_20240606\qemu\bin;C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts;C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\tools;%PATH%]
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:49.327
+!MESSAGE Project Name:: hello_world
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:49.328
+!MESSAGE Project:: P/hello_world
+
+!ENTRY com.espressif.idf.core 1 0 2025-05-23 12:20:55.988
+!MESSAGE D:\Documents\MyWorkspaces\EspressifDebug

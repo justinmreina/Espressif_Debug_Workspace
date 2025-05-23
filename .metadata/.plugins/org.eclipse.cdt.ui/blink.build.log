@@ -1,0 +1,22 @@
+                            Memory Type Usage Summary                             
++--------------------------------------------------------------------------------+
+| Memory Type/Section | Used [bytes] | Used [%] | Remain [bytes] | Total [bytes] |
+|---------------------+--------------+----------+----------------+---------------|
+| Flash Code          |       112246 |     1.34 |        8276330 |       8388576 |
+|    .text            |       112246 |     1.34 |                |               |
+| DIRAM               |        61580 |    18.02 |         280180 |        341760 |
+|    .text            |        47855 |     14.0 |                |               |
+|    .data            |        11444 |     3.35 |                |               |
+|    .bss             |         2264 |     0.66 |                |               |
+| Flash Data          |        48304 |     0.14 |       33506096 |      33554400 |
+|    .rodata          |        48048 |     0.14 |                |               |
+|    .appdesc         |          256 |      0.0 |                |               |
+| IRAM                |        16383 |    99.99 |              1 |         16384 |
+|    .text            |        15356 |    93.73 |                |               |
+|    .vectors         |         1027 |     6.27 |                |               |
+| RTC FAST            |          308 |     3.76 |           7884 |          8192 |
+|    .force_fast      |           28 |     0.34 |                |               |
+|    .rtc_reserved    |           24 |     0.29 |                |               |
++--------------------------------------------------------------------------------+
+C:\Users\Justin\.espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe C:\Sw\Espressif\frameworks\esp-idf-v5.4.1\components\partition_table\gen_esp32part.py D:\Documents\MyWorkspaces\EspressifDebug\blink\build\partition_table\partition-table.bin
+Total time taken to build the project: 95,776 ms

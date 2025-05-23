@@ -1,2 +1,3 @@
-2025/05/23-11:49:47.170 37bc Creating DB D:\Documents\MyWorkspaces\EspressifDebug\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db since it was missing.
-2025/05/23-11:49:47.187 37bc Reusing MANIFEST D:\Documents\MyWorkspaces\EspressifDebug\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2025/05/23-11:59:25.212 1588 Reusing MANIFEST D:\Documents\MyWorkspaces\EspressifDebug\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2025/05/23-11:59:25.213 1588 Recovering log #3
+2025/05/23-11:59:25.213 1588 Reusing old log D:\Documents\MyWorkspaces\EspressifDebug\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/000003.log 

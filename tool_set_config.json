@@ -1,0 +1,22 @@
+[
+  {
+    "id": -541746529,
+    "idfLocation": "C:\\Sw\\Espressif\\frameworks\\esp-idf-v5.4.1",
+    "idfVersion": "5.4.1",
+    "active": true,
+    "systemGitExecutablePath": "C:\\Sw\\Espressif\\tools\\idf-git\\2.44.0\\bin\\git.exe",
+    "systemPythonExecutablePath": "C:\\Sw\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "envVars": {
+      "PATH": "C:\\Users\\Justin\\.espressif\\tools\\xtensa-esp-elf-gdb\\14.2_20240403\\xtensa-esp-elf-gdb\\bin;C:\\Users\\Justin\\.espressif\\tools\\riscv32-esp-elf-gdb\\14.2_20240403\\riscv32-esp-elf-gdb\\bin;C:\\Users\\Justin\\.espressif\\tools\\xtensa-esp-elf\\esp-14.2.0_20241119\\xtensa-esp-elf\\bin;C:\\Users\\Justin\\.espressif\\tools\\esp-clang\\esp-18.1.2_20240912\\esp-clang\\bin;C:\\Users\\Justin\\.espressif\\tools\\riscv32-esp-elf\\esp-14.2.0_20241119\\riscv32-esp-elf\\bin;C:\\Users\\Justin\\.espressif\\tools\\esp32ulp-elf\\2.38_20240113\\esp32ulp-elf\\bin;C:\\Users\\Justin\\.espressif\\tools\\cmake\\3.30.2\\bin;C:\\Users\\Justin\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20241016\\openocd-esp32\\bin;C:\\Users\\Justin\\.espressif\\tools\\ninja\\1.12.1\\;C:\\Users\\Justin\\.espressif\\tools\\idf-exe\\1.0.3\\;C:\\Users\\Justin\\.espressif\\tools\\ccache\\4.10.2\\ccache-4.10.2-windows-x86_64;C:\\Users\\Justin\\.espressif\\tools\\dfu-util\\0.11\\dfu-util-0.11-win64;C:\\Users\\Justin\\.espressif\\tools\\qemu-xtensa\\esp_develop_9.0.0_20240606\\qemu\\bin;C:\\Users\\Justin\\.espressif\\tools\\qemu-riscv32\\esp_develop_9.0.0_20240606\\qemu\\bin;C:\\Users\\Justin\\.espressif\\python_env\\idf5.4_py3.11_env\\Scripts;C:\\Sw\\Espressif\\frameworks\\esp-idf-v5.4.1\\tools;%PATH%",
+      "IDF_COMPONENT_MANAGER": "1",
+      "OPENOCD_SCRIPTS": "C:\\Users\\Justin\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20241016\\openocd-esp32\\share\\openocd\\scripts",
+      "IDF_DEACTIVATE_FILE_PATH": "C:\\Users\\Justin\\AppData\\Local\\Temp\\tmp322sbuqyidf_24672",
+      "IDF_MAINTAINER": "1",
+      "IDF_CCACHE_ENABLE": "1",
+      "IDF_PATH": "C:\\Sw\\Espressif\\frameworks\\esp-idf-v5.4.1",
+      "IDF_PYTHON_ENV_PATH": "C:\\Users\\Justin\\.espressif\\python_env\\idf5.4_py3.11_env",
+      "ESP_IDF_VERSION": "5.4.1",
+      "ESP_ROM_ELF_DIR": "C:\\Users\\Justin\\.espressif\\tools\\esp-rom-elfs\\20241011\\"
+    }
+  }
+]

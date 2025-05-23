@@ -1,0 +1,4 @@
+CompileFlags:
+  CompilationDatabase: D:\Documents\MyWorkspaces\EspressifDebug\esp32_gpio\proj\build
+  Remove: [-m*, -f*]
+InlayHints: {Enabled: false}
